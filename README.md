@@ -1,6 +1,6 @@
 # Exhaustive Lock Dependency Emulator
 
-<!-- Time-stamp: "2020-04-08T06:12:53Z" -->
+<!-- Time-stamp: "2020-04-08T06:16:31Z" -->
 
 マルチスレッドまたはマルチプロセスの最も簡易な lock/unlock 機構におい
 て、その依存を総当たり的に調べるプログラムを(Perlで)書いた。
@@ -27,11 +27,20 @@ http://jrf.cocolog-nifty.com/software/2018/04/post-1.html
 バージョン 0.03 を初登録。
 
 
-## ライセンス
+## License
 
-パブリックドメイン。 (数式のような小さなプログラムなので。)
+The author is a Japanese.
 
-自由に改変・公開してください。
+I intended this program to be public-domain, but you can treat
+this program under the (new) BSD-License or under the Artistic
+License, if it is convenient for you.
+
+Within three months after the release of this program, I
+especially admit responsibility of efforts for rational requests
+of correction to this program.
+
+I often have bouts of schizophrenia, but I believe that my
+intention is legitimately fulfilled.
 
 
 ----
